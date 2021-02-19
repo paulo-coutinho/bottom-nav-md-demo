@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavVersion103</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_featured">Home</string>
+    <string name="title_my_products">My products</string>
+    <string name="title_news">News</string>
+    <string name="title_radio">Radio</string>
+</resources>
